@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="configurationsPref">Configurations</string>
+    <string name="hostKey">hostKey</string>
+    <string name="portKey">portKey</string>
+</resources>
